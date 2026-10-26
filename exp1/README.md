@@ -1,4 +1,4 @@
-# imgs/image-Handling-and-Pixel-Transformations-Using-OpenCV
+# Image-Handling-and-Pixel-Transformations-Using-OpenCV
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -24,7 +24,7 @@ Create brighter and darker images by adding and subtracting the matrix from the 
 Display the original, brighter, and darker images.
 
 ### Step 4:
-Modify the image contrast by creating two higher contrast images using scaling factors of 1.1 and 1.2 (without overflow fix).
+Modify the image contrast by creating two higher-contrast images using scaling factors of 1.1 and 1.2 (without overflow fix).
 Display the original, lower contrast, and higher contrast images.
 
 ### Step 5:
