@@ -1,5 +1,3 @@
-# Digital-Image-Processing
-
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -32,8 +30,8 @@ Display the original, lower contrast, and higher contrast images.
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
-## Program Developed By:
-## Name: [BALASUBRAMANIAM L]
+### Program Developed By:
+### Name: [BALASUBRAMANIAM L]
 
 ## Register Number: [21224240020]
 
