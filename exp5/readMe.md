@@ -222,11 +222,3 @@ Thus, different smoothing and sharpening filters were successfully implemented u
 The smoothing filters reduce noise and unwanted details, while the sharpening filters enhance edges and image details. These techniques improve image quality and support further image processing and feature extraction tasks.
 
 ---
-
-## References
-
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [NumPy Documentation](https://numpy.org/doc/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
----

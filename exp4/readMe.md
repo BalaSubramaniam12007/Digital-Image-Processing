@@ -92,19 +92,25 @@ Extracts a selected region of an image using NumPy array slicing.
 
 The project successfully demonstrates the following transformations:
 
-- Original and translated images
 ![alt text](imgs/image.png)
-![alt text](imgs/image-1.png)
-- Scaled images
-![alt text](imgs/image-2.png)
-- Horizontally and vertically sheared images
-![alt text](imgs/image-3.png)
-- Reflected images
+
+### Original and translated images
+![alt text](imgs/image-1.png) ![alt text](imgs/image-3.png)
+
+### Scaled images
 ![alt text](imgs/image-4.png)
-- Rotated images
+
+### Sheared Image
 ![alt text](imgs/image-5.png)
-- Cropped image regions
+
+### Reflected images
 ![alt text](imgs/image-6.png)
+
+### Rotated images
+![alt text](imgs/image-7.png)
+
+### Cropped image regions
+![alt text](imgs/image-2.png)
 
 ## Learning Outcomes
 
@@ -118,6 +124,6 @@ Through this implementation, the following concepts are explored:
 
 ## Author
 
-**BALASUBRAMANIAM L P**
+** NAME : BALASUBRAMANIAM L **
 
-- Register Number: 21222424002
+- Register Number: 212224240020

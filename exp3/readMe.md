@@ -98,7 +98,7 @@ plt.tight_layout()
 plt.show()
 
 # Step 4: Read the image in color
-color = cv2.imread("parrot.jpg")
+color = cv2.imread("image.jpg")
 
 if color is None:
     print("Error: Cannot read color image!")
@@ -187,6 +187,7 @@ The output displays:
 
 ![alt text](imgs/image-2.png)
 
+
 ![alt text](imgs/image-3.png)
 
 ## Result
@@ -203,19 +204,3 @@ Thus, histogram equalization was successfully implemented on both grayscale and 
 | **Register Number** | 212224240020 |
 
 ---
-
-## Repository Structure
-
-```text
-Histogram-Equalization-Using-OpenCV/
-│
-├── image.png
-├── histogram_equalization.py
-└── README.md
-```
-
-## References
-
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [NumPy Documentation](https://numpy.org/doc/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
