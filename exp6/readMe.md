@@ -56,7 +56,7 @@ Display all edge-detected images for comparison.
 
 ## Output
 
-![alt text](imgs/image-1.png)
+![alt text](imgs/image.png)
 ### Sobel Edge Detector
 
 - Detects edges in horizontal and vertical directions.
